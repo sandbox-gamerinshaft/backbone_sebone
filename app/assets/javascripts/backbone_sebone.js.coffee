@@ -1,4 +1,4 @@
-window.BackboneSebone =
+window.Sebone =
   Models: {}
   Collections: {}
   Views: {}
