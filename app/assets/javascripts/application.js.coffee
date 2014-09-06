@@ -3,7 +3,7 @@
 #= require turbolinks
 #= require underscore
 #= require backbone
-#= require backbone_sebone
+#= require sebone
 #= require_tree ../templates
 #= require_tree ./models
 #= require_tree ./collections

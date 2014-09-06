@@ -1,2 +1,2 @@
-class Sebone.Models.Micropost extends Sebone.Model
+class Sebone.Models.Micropost extends Backbone.Model
   urlRoot: "/microposts"
